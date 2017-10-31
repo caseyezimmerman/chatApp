@@ -1,3 +1,37 @@
-h1{
-	color:orange;
+.top{
+	color:#000044;
+	padding-left:100px;
+	border:1px solid transparent;
+	background-color:lightgrey;
+	width:100%;
+}
+
+#messages{
+	border:1px solid transparent;
+	border-radius:10px;
+	height:50vh;
+	overflow:auto;
+}
+
+#users{
+	border-right:1px solid grey;
+	/*height:100vh;*/
+	overflow:auto;
+}
+
+h4{
+	text-decoration: underline;
+}
+
+.bold, .fancy{
+	font-weight:bolder;
+}
+
+span{
+	display: inline-block;
+}
+
+.fancy{
+	font-size:17px;
+	text-decoration: italic;
 }
