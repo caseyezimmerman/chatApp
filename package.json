@@ -1,0 +1,29 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "a Node app using express to create an instant message service using websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseyezimmerman/chatApp.git"
+  },
+  "keywords": [
+    "node",
+    "websockets",
+    "express",
+    "instant",
+    "message"
+  ],
+  "author": "Casey Zimmerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caseyezimmerman/chatApp/issues"
+  },
+  "homepage": "https://github.com/caseyezimmerman/chatApp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
